@@ -3,6 +3,7 @@ title: Hobbies
 ---
 
 This section is currently under construction.
+
 I spend my free time interchangeably around:
 
 - Birdwatching — Although we hear more than see…

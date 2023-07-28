@@ -3,6 +3,7 @@ title: Passatempos
 ---
 
 Esta secção está em construção.
+
 Passo o meu tempo livre em torno de:
 
 - Ficção científica — qualquer!

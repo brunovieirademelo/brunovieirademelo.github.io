@@ -3,6 +3,7 @@ title: Science
 ---
 
 Here is a brief overview of my relevant information.
+
 Main publications are [here](publications).
 
 *Keywords*: action-perception, attention-deficit/hyperactivity disorder, auditory processing disorder, digital health, emotional regulation, human microbiome, language, multisensory, neurobehaviour, neurodevelopmental and childhood disorders, Occupational Therapy, sensory integration, virtual reality

@@ -3,6 +3,7 @@ title: Ciência
 ---
 
 Aqui está uma breve visão geral da minha informação relevante.
+
 As principais publicações estão [aqui](publicacoes).
 
 *Palavras-Chave*: acção-percepção, integração sensorial, linguagem, microbioma humano, multissensorial, neurocomportamento, Perturbação de Hiperactividade e Défice de Atenção, perturbações da infância e do neurodesenvolvimento, processamento auditivo central, realidade virtual, regulação emocional, tecnologias digitais, Terapia Ocupacional
