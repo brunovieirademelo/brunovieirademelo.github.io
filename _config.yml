@@ -1,0 +1,19 @@
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+title: Bruno Vieira de Melo
+description: 
+author:
+  name: Bruno Vieira de Melo
+  email: "brunobvieirademelo@gmail.com"
+minima:
+  social_links:
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&user=2LjKg7YAAAAJ" }
+    - { platform: facebook,  user_url: "http://bit.ly/2UzvKR0" }
+    - { platform: twitter, user_url: "http://bit.ly/2TZOSTU" }
+    - { platform: linkedin, user_url: "http://bit.ly/2uWfg7b" }
+plugins:
+  - jekyll-remote-theme
+
+header_pages:
+  - readme
