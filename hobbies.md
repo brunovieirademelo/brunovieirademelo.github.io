@@ -15,6 +15,6 @@ I spend my free time interchangeably around:
 
 ---
 
-< Return to [Home](readme.md)
+< Return to [Home](index.md)
 
 [English (en)](hobbies)/[Português (pt)](passatempos)

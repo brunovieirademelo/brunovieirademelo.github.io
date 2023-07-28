@@ -13,6 +13,6 @@ Networking is welcome.
 
 ---
 
-< Return to [Home](readme.md)
+< Return to [Home](index.md)
 
-[English (en)](readme.md)/[Português (pt)](readmept)
+[English (en)](index.md)/[Português (pt)](indexpt.md)

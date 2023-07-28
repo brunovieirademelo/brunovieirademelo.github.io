@@ -43,6 +43,6 @@ https://orcid.org/0000-0002-1543-6582
 
 ---
 
-< Regressar ao [Início](readmept)
+< Regressar ao [Início](indexpt.md)
 
 [English (en)](publications)/[Português (pt)](publicacoes)

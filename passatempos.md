@@ -15,6 +15,6 @@ Passo o meu tempo livre em torno de:
 
 ---
 
-< Regressar ao [Início](readmept)
+< Regressar ao [Início](indexpt.md)
 
 [English (en)](hobbies)/[Português (pt)](passatempos)
