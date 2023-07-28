@@ -2,7 +2,7 @@
 title: Science
 ---
 
-Here is a brief overview of my relevant information.
+This is a brief overview of my relevant information.
 
 Main publications are [here](publications).
 

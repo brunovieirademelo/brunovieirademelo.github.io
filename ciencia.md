@@ -2,7 +2,7 @@
 title: Ciência
 ---
 
-Aqui está uma breve visão geral da minha informação relevante.
+Esta é uma breve visão geral da minha informação relevante.
 
 As principais publicações estão [aqui](publicacoes).
 
