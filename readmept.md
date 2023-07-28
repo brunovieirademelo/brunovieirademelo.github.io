@@ -1,8 +1,6 @@
 ---
-title: 
+title: Olá
 ---
-
-## Olá
 
 Uma grande actualização está a caminho[^1], mas é possível encontrar aqui uma visão geral dos meus:
 

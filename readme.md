@@ -1,8 +1,6 @@
 ---
-title: 
+title: Hello
 ---
-
-## Hello
 
 A big update is underway[^1], but here you can find a brief overview of my:
 
