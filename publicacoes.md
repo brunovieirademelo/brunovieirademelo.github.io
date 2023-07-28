@@ -4,17 +4,17 @@ title: Publicações
 
 ## Publicadas
 
-Vieira de Melo, B. B., Trigueiro, M. J., & Rodrigues, P. P. (2017). Systematic overview of neuroanatomical differences in ADHD: Definitive evidence. _Developmental Neuropsychology_, _43_(1), 52–68. https://doi.org/10.1080/87565641.2017.1414821
+Vieira de Melo, B. B., Trigueiro, M. J., & Rodrigues, P. P. (2017). Systematic overview of neuroanatomical differences in ADHD: Definitive evidence. _Developmental Neuropsychology_, _43_(1), 52–68. [https://doi.org/10.1080/87565641.2017.1414821]
 
-Vieira de Melo, B. B. (2019). _Ensaio de uma nova teoria etiológica do microbioma humano na perturbação de hiperactividade e défice de atenção_ [Doctoral dissertation, University of Vigo; Essay on a new etiological theory of the human microbiome and attention-deficit/hyperactivity disorder]. Repositorio Investigo. http://hdl.handle.net/11093/1171
+Vieira de Melo, B. B. (2019). _Ensaio de uma nova teoria etiológica do microbioma humano na perturbação de hiperactividade e défice de atenção_ [Doctoral dissertation, University of Vigo; Essay on a new etiological theory of the human microbiome and attention-deficit/hyperactivity disorder]. Repositorio Investigo. [http://hdl.handle.net/11093/1171]
 
-Pinto, J. O., Vieira de Melo, B. B., Dores, A. R., Peixoto, B., Geraldo, A., & Barbosa, F. (2021). Narrative review of the multisensory integration tasks used with older adults: Inclusion of multisensory integration tasks into neuropsychological assessment. _Expert Review of Neurotherapeutics_, _21_(6), 657–674. https://doi.org/10.1080/14737175.2021.1914592
+Pinto, J. O., Vieira de Melo, B. B., Dores, A. R., Peixoto, B., Geraldo, A., & Barbosa, F. (2021). Narrative review of the multisensory integration tasks used with older adults: Inclusion of multisensory integration tasks into neuropsychological assessment. _Expert Review of Neurotherapeutics_, _21_(6), 657–674. [https://doi.org/10.1080/14737175.2021.1914592]
 
 Fundação Dr. António Cupertino de Miranda. (2021). _Educação financeira para pessoas com necessidades adicionais de suporte: Guia de apoio ao formador_ (B. B. Vieira de Melo, M. Silveira-Maia, & S. B. Ribeiro, Eds.) [Intervention manual; Financial education for additional support needs: Intervention manual].
 
 Fundação Dr. António Cupertino de Miranda. (2021). *Educação financeira para pessoas com necessidades adicionais de suporte: Kit de materiais pedagógicos* (B. B. Vieira de Melo, M. Silveira-Maia, \& S. B. Ribeiro, Eds.) [Intervention material; Financial education for additional support needs: Kit of pedagogic material].
 
-Pinto, J. O., Dores, A. R., Peixoto, B., Vieira de Melo, B. B., & Barbosa, F. (2022). Critical review of multisensory integration programs and proposal of a theoretical framework for its combination with neurocognitive training. _Expert Review of Neurotherapeutics_, _22_(7), 557–566. https://doi.org/10.1080/14737175.2022.2092401
+Pinto, J. O., Dores, A. R., Peixoto, B., Vieira de Melo, B. B., & Barbosa, F. (2022). Critical review of multisensory integration programs and proposal of a theoretical framework for its combination with neurocognitive training. _Expert Review of Neurotherapeutics_, _22_(7), 557–566. [https://doi.org/10.1080/14737175.2022.2092401]
 
 Vieira de Melo, B. B. (2023). _O organismal humano e a sua redefinição biológica para a compreensão das perturbações mentais_ [The human organismal and its biological redefinition for the understanding of mental disorders]. BVM.
 
