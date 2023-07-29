@@ -5,7 +5,7 @@ title: Bruno Vieira de Melo
 description: 
 author:
   name: Bruno Vieira de Melo
-  email: "brunobvieirademelo@gmail.com"
+#  email: "brunobvieirademelo@gmail.com"
 minima:
   social_links:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&user=2LjKg7YAAAAJ" }
