@@ -16,20 +16,17 @@ Fundação Dr. António Cupertino de Miranda. (2021). *Educação financeira par
 
 Pinto, J. O., Dores, A. R., Peixoto, B., Vieira de Melo, B. B., & Barbosa, F. (2022). Critical review of multisensory integration programs and proposal of a theoretical framework for its combination with neurocognitive training. _Expert Review of Neurotherapeutics_, _22_(7), 557–566. <https://doi.org/10.1080/14737175.2022.2092401>
 
-Vieira de Melo, B. B. (2023). _O organismal humano e a sua redefinição biológica para a compreensão das perturbações mentais_ [The human organismal and its biological redefinition for the understanding of mental disorders]. BVM.
+Vieira de Melo, B. B. (2023). _O organismal humano e a sua redefinição biológica para a compreensão das perturbações mentais_ [The human organismal and its biological redefinition for the understanding of mental disorders]. BVM. (ISBN: 978-989-35215-1-9)
 
-Vieira de Melo, B. B. (2023). _Os fundamentos do microbioma humano para a neurobiologia das perturbações mentais_ [The foundations of the human microbiome for the neurobiology of mental disorders]. BVM.
+Vieira de Melo, B. B. (2023). _Os fundamentos do microbioma humano para a neurobiologia das perturbações mentais_ [The foundations of the human microbiome for the neurobiology of mental disorders]. BVM. (ISBN: 978-989-35215-2-6)
 
-Vieira de Melo, B. B. (2023). _O início da importância do microbioma intestinal para as perturbações mentais_ [The early importance of the gut microbiome for mental disorders]. BVM.
+Vieira de Melo, B. B. (2023). _O início da importância do microbioma intestinal para as perturbações mentais_ [The early importance of the gut microbiome for mental disorders]. BVM. (ISBN: 978-989-35215-3-3)
 
-Vieira de Melo, B. B. (2023). _O eixo intestino-encefálico e a ligação imunológica com as perturbações mentais_ [The gut-brain axis and the immunological link to mental disorders]. BVM.
+Vieira de Melo, B. B. (2023). _O eixo intestino-encefálico e a ligação imunológica com as perturbações mentais_ [The gut-brain axis and the immunological link to mental disorders]. BVM. (ISBN: 978-989-35215-4-0)
 
-Vieira de Melo, B. B. (2023). _A comorbilidade com as perturbações mentais e os modelos etiológicos em torno da perturbação de hiperactividade e défice de atenção_ [Comorbidity with mental disorders and aetiological models surrounding attention-deficit/hyperactivity disorder]. BVM.
+Vieira de Melo, B. B. (2023). _A comorbilidade com as perturbações mentais e os modelos etiológicos em torno da perturbação de hiperactividade e défice de atenção_ [Comorbidity with mental disorders and aetiological models surrounding attention-deficit/hyperactivity disorder]. BVM. (ISBN: 978-989-35215-5-7)
 
-## No Prelo
-
-Vieira de Melo, B. B., Silveira-Maia, M., Ribeiro, S. B. (inprint) Full financial education programmes for people with disabilities: A scoping review [Manuscript submitted for publication]. Occupational Therapy Technical and Scientific Area, School of Health of the Polytechnic of Porto.
-
+Vieira de Melo, B. B., Silveira-Maia, M., & Ribeiro, S. B. (2023). Full financial education programmes for people with disabilities: A scoping review. _Revista Brasileira de Educação Especial_, _29_(e0222), 277–296. <https://doi.org/10.1590/1980-54702023v29e0222>
 ## Em Preparação
 
 Vieira de Melo, B. B., Trigueiro, M. J., Pinto, J. O., Dores, A. R., Peixoto, B., & Barbosa, F. (2022). _Multisensory processing in attention-deficit/hyperactivity disorder: A scoping review_ [Manuscript in preparation]. Occupational Therapy Technical and Scientific Area, School of Health of the Polytechnic of Porto.
