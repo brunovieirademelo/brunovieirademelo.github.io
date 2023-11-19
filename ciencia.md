@@ -9,6 +9,7 @@ As principais publicações estão [aqui](publicacoes).
 *Palavras-Chave*: acção-percepção, integração sensorial, linguagem, microbioma humano, multissensorial, neurocomportamento, Perturbação de Hiperactividade e Défice de Atenção, perturbações da infância e do neurodesenvolvimento, processamento auditivo central, realidade virtual, regulação emocional, tecnologias digitais, Terapia Ocupacional
 
 ## Afiliação
+- Professor @ Área Técnico-Científica de Terapia Ocupacional, [Escola Superior de Saúde Santa Maria](https://bit.ly/3ufDBqc), Porto, Portugal
 - Professor @ Área Técnico-Científica de Terapia Ocupacional, [Escola Superior de Saúde](https://bit.ly/3Og0cJy), [Politécnico do Porto](https://bit.ly/44CyRbz), Portugal
 - Investigador @ [Laboratório de Reabilitação Psicossocial](https://bit.ly/3rQQHsY), Centro de Investigação em Reabilitação, Escola Superior de Saúde, Politécnico do Porto e Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto
 

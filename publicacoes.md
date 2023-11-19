@@ -27,6 +27,12 @@ Vieira de Melo, B. B. (2023). _O eixo intestino-encefálico e a ligação imunol
 Vieira de Melo, B. B. (2023). _A comorbilidade com as perturbações mentais e os modelos etiológicos em torno da perturbação de hiperactividade e défice de atenção_ [Comorbidity with mental disorders and aetiological models surrounding attention-deficit/hyperactivity disorder]. BVM. (ISBN: 978-989-35215-5-7)
 
 Vieira de Melo, B. B., Silveira-Maia, M., & Ribeiro, S. B. (2023). Full financial education programmes for people with disabilities: A scoping review. _Revista Brasileira de Educação Especial_, _29_(e0222), 277–296. <https://doi.org/10.1590/1980-54702023v29e0222>
+
+## No Prelo
+
+- Digital Mental Health Interventions for Children and Youth
+- Engagement in Risky Play: Critical Ecosystemic Factors from Parents’ Perspective
+
 ## Em Preparação
 
 Vieira de Melo, B. B., Trigueiro, M. J., Pinto, J. O., Dores, A. R., Peixoto, B., & Barbosa, F. (2022). _Multisensory processing in attention-deficit/hyperactivity disorder: A scoping review_ [Manuscript in preparation]. Occupational Therapy Technical and Scientific Area, School of Health of the Polytechnic of Porto.
