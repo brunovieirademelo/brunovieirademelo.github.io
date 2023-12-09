@@ -12,7 +12,7 @@ Pinto, J. O., Vieira de Melo, B. B., Dores, A. R., Peixoto, B., Geraldo, A., & B
 
 Fundação Dr. António Cupertino de Miranda. (2021). _Educação financeira para pessoas com necessidades adicionais de suporte: Guia de apoio ao formador_ (B. B. Vieira de Melo, M. Silveira-Maia, & S. B. Ribeiro, Eds.) [Intervention manual; Financial education for additional support needs: Intervention manual].
 
-Fundação Dr. António Cupertino de Miranda. (2021). *Educação financeira para pessoas com necessidades adicionais de suporte: Kit de materiais pedagógicos* (B. B. Vieira de Melo, M. Silveira-Maia, \& S. B. Ribeiro, Eds.) [Intervention material; Financial education for additional support needs: Kit of pedagogic material].
+Fundação Dr. António Cupertino de Miranda. (2021). *Educação financeira para pessoas com necessidades adicionais de suporte: Kit de materiais pedagógicos* (B. B. Vieira de Melo, M. Silveira-Maia, & S. B. Ribeiro, Eds.) [Intervention material; Financial education for additional support needs: Kit of pedagogic material].
 
 Pinto, J. O., Dores, A. R., Peixoto, B., Vieira de Melo, B. B., & Barbosa, F. (2022). Critical review of multisensory integration programs and proposal of a theoretical framework for its combination with neurocognitive training. _Expert Review of Neurotherapeutics_, _22_(7), 557–566. <https://doi.org/10.1080/14737175.2022.2092401>
 
@@ -28,9 +28,10 @@ Vieira de Melo, B. B. (2023). _A comorbilidade com as perturbações mentais e o
 
 Vieira de Melo, B. B., Silveira-Maia, M., & Ribeiro, S. B. (2023). Full financial education programmes for people with disabilities: A scoping review. _Revista Brasileira de Educação Especial_, _29_(e0222), 277–296. <https://doi.org/10.1590/1980-54702023v29e0222>
 
+Machado, A., Ferreira, B., Carrola, C., Pereira, C. Y., Vieira de Melo, B. B., & Campos, C. (2023). Digital mental health interventions for children and youth. In R. S. Almeida, M. J. Trigueiro, & V. Simões-Silva (Eds.), _Handbook of research on advances in digital technologies to promote rehabilitation and community participation_. IGI Global. <https://doi.org/10.4018/978-1-6684-9251-2.ch002>
+
 ## No Prelo
 
-- Digital Mental Health Interventions for Children and Youth
 - Engagement in Risky Play: Critical Ecosystemic Factors from Parents’ Perspective
 
 ## Em Preparação
