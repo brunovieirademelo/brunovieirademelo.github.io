@@ -11,7 +11,7 @@ As principais publicações estão [aqui](publicacoes).
 ## Afiliação
 - Professor @ Área Técnico-Científica de Terapia Ocupacional, [Escola Superior de Saúde Santa Maria](https://bit.ly/3ufDBqc), Porto, Portugal
 - Professor @ Área Técnico-Científica de Terapia Ocupacional, [Escola Superior de Saúde](https://bit.ly/3Og0cJy), [Politécnico do Porto](https://bit.ly/44CyRbz), Portugal
-- Investigador @ [Laboratório de Reabilitação Psicossocial](https://bit.ly/3rQQHsY), Centro de Investigação em Reabilitação, Escola Superior de Saúde, Politécnico do Porto e Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto
+- Investigador Integrado @ [Laboratório de Reabilitação Psicossocial](https://bit.ly/3rQQHsY), Centro de Investigação em Reabilitação, Escola Superior de Saúde, Politécnico do Porto e Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto
 
 ## Qualificação Académica
 - Licenciatura @ Escola Superior de Saúde, Politécnico do Porto, Portugal, Terapia Ocupacional

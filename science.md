@@ -11,7 +11,7 @@ Main publications are [here](publications).
 ## Affiliation
 - Professor @ Occupational Therapy Technical and Scientific Area, [Santa Maria Health School](https://bit.ly/3ufDBqc), Porto, Portugal
 - Professor @ Occupational Therapy Technical and Scientific Area, [School of Health](https://bit.ly/3Og0cJy), [Polytechnic of Porto](https://bit.ly/44CyRbz), Portugal
-- Researcher @ Center for Rehabilitation Research, [Psychosocial Rehabilitation Laboratory](https://bit.ly/3rQQHsY), School of Health of the Polytechnic of Porto and the Faculty of Psychology and Education Science of the University of Porto
+- Integrated Researcher @ Center for Rehabilitation Research, [Psychosocial Rehabilitation Laboratory](https://bit.ly/3rQQHsY), School of Health of the Polytechnic of Porto and the Faculty of Psychology and Education Science of the University of Porto
 
 ## Education
 - BSc @ Higher School of Health, Polytechnic of Porto, Portugal, Occupational Therapy
