@@ -29,9 +29,14 @@ Vieira de Melo, B. B. (2023). _A comorbilidade com as perturbações mentais e o
 Vieira de Melo, B. B., Silveira-Maia, M., & Ribeiro, S. B. (2023). Full financial education programmes for people with disabilities: A scoping review. _Revista Brasileira de Educação Especial_, _29_(e0222), 277–296. <https://doi.org/10.1590/1980-54702023v29e0222>
 
 Machado, A., Ferreira, B., Carrola, C., Pereira, C. Y., Vieira de Melo, B. B., & Campos, C. (2023). Digital mental health interventions for children and youth. In R. S. Almeida, M. J. Trigueiro, & V. Simões-Silva (Eds.), _Handbook of research on advances in digital technologies to promote rehabilitation and community participation_. IGI Global. <https://doi.org/10.4018/978-1-6684-9251-2.ch002>
+
+Serrano, P., & Vieira de Melo, B. B. (2024). Brincar na primeira infância e as neurociências [Play in early childhood and neurosciences]. In P. Serrano, _Brincar e integração sensorial nos primeiros anos — Teoria e prática em Terapia Ocupacional_ (pp. 33–74). Papa-Letras. (ISBN 978-989-8214-87-4)
+
+Martins, D., Silveira-Maia, M., & Vieira de Melo, B. B. (2024). Engagement in risky play: Critical ecosystemic factors from parents’ perspective. _International Journal of Play_, 1–19. <https://doi.org/10.1080/21594937.2024.2355449>
+
 ## In Press
 
-- Engagement in Risky Play: Critical Ecosystemic Factors from Parents’ Perspective
+Trigueiro, M. J., Lopes, J., Simões-Silva, V., Vieira de Melo, B. B., & Almeida, R. S. (2024). _Cognitive training program using virtual reality in young adults with intellectual developmental disability improves working memory and inhibitory control_ [Manuscript in preparation]. Occupational Therapy Technical and Scientific Area, School of Health of the Polytechnic of Porto.
 
 ## In Preparation
 
