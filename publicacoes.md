@@ -34,9 +34,7 @@ Serrano, P., & Vieira de Melo, B. B. (2024). Brincar na primeira infância e as 
 
 Martins, D., Silveira-Maia, M., & Vieira de Melo, B. B. (2024). Engagement in risky play: Critical ecosystemic factors from parents’ perspective. _International Journal of Play_, 1–19. <https://doi.org/10.1080/21594937.2024.2355449>
 
-## No Prelo
-
-Trigueiro, M. J., Lopes, J., Simões-Silva, V., Vieira de Melo, B. B., & Almeida, R. S. (2024). _Cognitive training program using virtual reality in young adults with intellectual developmental disability improves working memory and inhibitory control_ [Manuscript in preparation]. Occupational Therapy Technical and Scientific Area, School of Health of the Polytechnic of Porto.
+Trigueiro, M. J., Lopes, J., Simões-Silva, V., Vieira de Melo, B. B., Simões De Almeida, R., & Marques, A. (2024). Impact of VR-based cognitive training on working memory and inhibitory control in IDD young adults. _Healthcare_, _12_(17), 1705. https://doi.org/10.3390/healthcare12171705
 
 ## Em Preparação
 
