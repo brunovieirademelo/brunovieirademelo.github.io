@@ -17,7 +17,7 @@ Main publications are [here](publications).
 - BSc @ Higher School of Health, Polytechnic of Porto, Portugal, Occupational Therapy
 - Postgraduate @ [Alcoitão School of Health Sciences](https://bit.ly/3OA8b5O), Portugal, Sensory Integration for Occupational Therapists
 - PhD *Sobresaliente Cum laude* (*Summa Cum Laude*) @ [University of Vigo](https://bit.ly/457Iu1B), Spain, Behaviour and Educational Sciences​
-- Others: Trainer accredited in Health Sciences and Certificate of Pedagogical Competencies
+- Others: DIRFloortime; Trainer accredited in Health Sciences and Certificate of Pedagogical Competencies
 
 ## Awards and Distinctions
 - *Essay on a New Etiological Theory of the Human Microbiome and Attention-Deficit/Hyperactivity Disorder* — Sobresaliente Cum laude (Summa Cum Laude) by Unanimity
