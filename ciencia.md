@@ -17,7 +17,7 @@ As principais publicações estão [aqui](publicacoes).
 - Licenciatura @ Escola Superior de Saúde, Politécnico do Porto, Portugal, Terapia Ocupacional
 - Pós-graduação @ [Escola Superior de Saúde do Alcoitão](https://bit.ly/3OA8b5O), Portugal, Integração Sensorial para Terapeutas Ocupacionais
 - Doutoramento *Sobresaliente Cum laude* (*Summa Cum Laude*) @ [Universidade de Vigo](https://bit.ly/457Iu1B), Espanha, Ciências da Educação e Comportamento
-- Outras: formador acreditado em Ciências da Saúde e Certificado de Competências Pedagógicas
+- Outras: DIRFloortime; formador acreditado em Ciências da Saúde e Certificado de Competências Pedagógicas
 
 ## Awards and Distinctions
 - *Ensaio de uma nova teoria etiológica do microbioma humano na Perturbação de Hiperactividade e Défice de Atenção* — *Sobresaliente Cum laude* (*Summa Cum Laude*) por unanimidade
