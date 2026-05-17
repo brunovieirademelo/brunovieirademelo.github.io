@@ -1,12 +1,11 @@
 remote_theme: jekyll/minima
-minima:
-  skin: dark
 title: Bruno Vieira de Melo
 description: 
 author:
   name: Bruno Vieira de Melo
 #  email: "brunobvieirademelo@gmail.com"
 minima:
+  skin: dark
   social_links:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&user=2LjKg7YAAAAJ" }
     - { platform: facebook,  user_url: "http://bit.ly/2UzvKR0" }
