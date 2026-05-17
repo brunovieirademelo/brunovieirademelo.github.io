@@ -7,13 +7,22 @@ author:
 minima:
   skin: dark
   social_links:
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&user=2LjKg7YAAAAJ" }
-    - { platform: facebook,  user_url: "http://bit.ly/2UzvKR0" }
-    - { platform: twitter, user_url: "http://bit.ly/2TZOSTU" }
-    - { platform: linkedin, user_url: "http://bit.ly/2uWfg7b" }
-    - title: Jekyll repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/jekyll"
+    - title: Bruno at Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?hl=en&user=2LjKg7YAAAAJ"
+    - title: Bruno at Facebook
+      icon: facebook
+      url: "http://bit.ly/2UzvKR0"
+    - title: Bruno at X-Twitter
+      icon: x-twitter
+      url: "http://bit.ly/2TZOSTU"
+    - title: Bruno at Linkedin
+      icon: linkedin
+      ulr: "http://bit.ly/2uWfg7b"
+#    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&user=2LjKg7YAAAAJ" }
+#    - { platform: facebook,  user_url: "http://bit.ly/2UzvKR0" }
+#    - { platform: twitter, user_url: "http://bit.ly/2TZOSTU" }
+#    - { platform: linkedin, user_url: "http://bit.ly/2uWfg7b" }
 plugins:
   - jekyll-remote-theme
 
