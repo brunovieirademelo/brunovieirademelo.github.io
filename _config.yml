@@ -23,8 +23,11 @@ minima:
 #    - { platform: facebook,  user_url: "http://bit.ly/2UzvKR0" }
 #    - { platform: twitter, user_url: "http://bit.ly/2TZOSTU" }
 #    - { platform: linkedin, user_url: "http://bit.ly/2uWfg7b" }
+  nav_pages:
+    - index.md
+    - ciencia.md
 plugins:
   - jekyll-remote-theme
 
-header_pages:
-  - readme
+#header_pages:
+#  - readme
